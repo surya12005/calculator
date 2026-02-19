@@ -1,6 +1,6 @@
 class calculator
   {
-    public ststic void main(String args[])
+    public static void main(String args[])
     {
       int n1=Integer.parseInt(args[0]);
       int n2=Integer.parseInt(args[1]);
