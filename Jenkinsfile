@@ -21,7 +21,7 @@ pipeline {
         sh 'java calculator 30 -5'
       }
     }
-    stage("Deploy')
+    stage('Deploy')
           {
             steps{
               echo "deployment completed'
